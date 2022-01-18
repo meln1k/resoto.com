@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[659],{1555:function(e){e.exports=JSON.parse('{"permalink":"/news","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
