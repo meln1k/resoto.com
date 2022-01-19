@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"v2.0.0a9","permalink":"/news/v2.0.0a9"},{"title":"v2.0.0a3","permalink":"/news/v2.0.0a3"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Posts","items":[{"title":"Query Language 101","permalink":"/blog/2022/01/19/query-language-101"}]}')}}]);
