@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[8388],{931:function(e){e.exports=JSON.parse('{"title":"Announcements","items":[{"title":"v2.0.0a9","permalink":"/news/2021/12/09/v2.0.0a9"},{"title":"v2.0.0a3","permalink":"/news/2021/10/04/v2.0.0a3"}]}')}}]);
