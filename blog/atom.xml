@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://resoto.com/blog"/>
     <subtitle>Resoto by Some Engineering Blog</subtitle>
-    <icon>https://resoto.com/img/placeholder-logo.png</icon>
+    <icon>https://resoto.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Query Language 101]]></title>
         <id>/2022/01/19/query-language-101</id>
