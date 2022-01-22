@@ -8,7 +8,7 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Release Notes 2.0.0a10 (Jan 18th, 2022)]]></title>
+            <title><![CDATA[v2.0.0a10]]></title>
             <link>https://resoto.com/news/2022/01/18/v2.0.0a10</link>
             <guid>/2022/01/18/v2.0.0a10</guid>
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
