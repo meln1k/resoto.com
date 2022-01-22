@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[8484],{4535:function(e){e.exports=JSON.parse('{"title":"Reference","slug":"/reference","permalink":"/docs/reference","navigation":{"previous":{"title":"Edge","permalink":"/docs/concepts/graph/edge"},"next":{"title":"Access Permissions","permalink":"/docs/reference/access-permissions"}}}')}}]);
