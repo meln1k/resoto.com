@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[4568],{8283:function(o){o.exports=JSON.parse('{"title":"Automation","slug":"/concepts/automation","permalink":"/docs/concepts/automation","navigation":{"previous":{"title":"Concepts","permalink":"/docs/concepts"},"next":{"title":"Job","permalink":"/docs/concepts/automation/job"}}}')}}]);
