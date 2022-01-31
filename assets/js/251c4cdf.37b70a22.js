@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[6675],{3531:function(e,o,n){n.r(o),n.d(o,{default:function(){return c}});var t=n(7294);function c(){return(0,t.useEffect)((function(){window.location.href="https://resoto.com/docs/reference/core-api/"}),[]),null}}}]);
