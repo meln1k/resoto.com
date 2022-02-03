@@ -5,7 +5,7 @@ servers:
       Server:
         default: http://localhost:8900
 info:
-  title: Resoto Core v2.0.0a14 REST API
+  title: Resoto Core v2.0.0a15 REST API
 tags:
   - name: graph_query
     description: Endpoints to query all sections of the graph.
