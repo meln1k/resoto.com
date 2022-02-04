@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[2555],{22918:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/query-language","name":"query language","count":1,"permalink":"/blog/tags/query-language"}')}}]);

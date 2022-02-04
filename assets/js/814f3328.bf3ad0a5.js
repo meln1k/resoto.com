@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresoto_com=self.webpackChunkresoto_com||[]).push([[2535],{45641:function(e){e.exports=JSON.parse('{"title":"Posts","items":[{"title":"Resoto Query Language 101","permalink":"/blog/2022/02/04/resoto-query-language-101"},{"title":"New Name, New Website!","permalink":"/blog/2022/01/25/new-name-new-website"}]}')}}]);
